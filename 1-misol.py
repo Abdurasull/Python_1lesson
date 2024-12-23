@@ -7,7 +7,7 @@ strint_a = "Salom, dunyo!"#string turidagi ma`lumot kiritamiz
 boolen_a = True#boolen turidagi ma`lumot kiritamiz
 
 #turni aniqlash uchun type() function dan foydalanamiz
-print(type(int_a))
-print(type(float_a))
-print(type(strint_a))
-print(type(boolen_a))
+print(int_a, "=>",type(int_a))
+print(float_a, "=>",type(float_a))
+print(strint_a, "=>",type(strint_a))
+print(boolen_a, "=>",type(boolen_a))
