@@ -4,4 +4,4 @@ Number = 1
 
 result = f'Mening ismin {name}, mening yoshim {age}, mening sevimli raqamim {Number}'
 
-print(result)
+print(result) 
