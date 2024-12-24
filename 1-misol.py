@@ -10,4 +10,4 @@ boolen_a = True#boolen turidagi ma`lumot kiritamiz
 print(int_a, "=>",type(int_a))
 print(float_a, "=>",type(float_a))
 print(strint_a, "=>",type(strint_a))
-print(boolen_a, "=>",type(boolen_a))
+print(boolen_a, "=>",type(boolen_a)) 
